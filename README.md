@@ -123,7 +123,8 @@ for byte in data:
 
 ## 🎥 Demo Video
 
-> Link video demo / screen record program berjalan:  
+> Link video demo / screen record program berjalan:
+> (Jika video buram silahkan ubah kualitas ke 720p)  
 > **[https//drive.google.com/file/d/1qIAA3YbedJE57d04tGkJTJEchEVR60fY/view?usp=sharing]**
 
 ---
