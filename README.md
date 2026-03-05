@@ -19,11 +19,11 @@ Repository ini berisi implementasi lengkap algoritma **RC4 (Rivest Cipher 4)** d
 ## 📁 Struktur Repository
 
 ```
-rc4-kriptografi/
+KeamananData/
 ├── rc4_implementation.py   # Implementasi utama RC4 dari scratch
 ├── README.md               # Dokumentasi ini
 └── laporan/
-    └── TugasKripto_[Nama]_[NIM]_RC4.pdf   # Laporan tertulis (PDF)
+    └── 25051204263_Faqih Rafasha Argandhi_Keamanan Data.pdf   # Laporan tertulis (PDF)
 ```
 
 ---
@@ -124,7 +124,7 @@ for byte in data:
 ## 🎥 Demo Video
 
 > Link video demo / screen record program berjalan:  
-> **[URL_VIDEO_DEMO_KAMU]**
+> **https://drive.google.com/file/d/1qIAA3YbedJE57d04tGkJTJEchEVR60fY/view?usp=sharing**
 
 ---
 
