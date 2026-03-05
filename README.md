@@ -123,24 +123,16 @@ for byte in data:
 
 ## 🎥 Demo Video
 
-> Link video demo / screen record program berjalan:  
-> **https://drive.google.com/file/d/1qIAA3YbedJE57d04tGkJTJEchEVR60fY/view?usp=sharing**
+> Link video demo / screen record program berjalan:
+> (Jika video buram silahkan ubah kualitas ke 720p)  
+> **[https//drive.google.com/file/d/1qIAA3YbedJE57d04tGkJTJEchEVR60fY/view?usp=sharing]**
 
 ---
 
 ## 📄 Laporan
 
 > Link laporan PDF:  
-> **[URL_LAPORAN_PDF_KAMU]**
-
----
-
-## 📚 Referensi
-
-- Rivest, R. L. (1992). *The RC4 Encryption Algorithm*. RSA Data Security, Inc.
-- Fluhrer, S., Mantin, I., & Shamir, A. (2001). *Weaknesses in the Key Scheduling Algorithm of RC4*. SAC 2001.
-- RFC 7465 — Prohibiting RC4 Cipher Suites. IETF, 2015.
-- Stallings, W. (2017). *Cryptography and Network Security* (7th ed.). Pearson.
+> **[https://drive.google.com/file/d/1QI8oGTRwXQxSOBpyZ6G6oJn_YT8n9zX1/view?usp=sharing]**
 
 ---
 
